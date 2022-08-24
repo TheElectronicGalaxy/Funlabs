@@ -1,0 +1,28 @@
+{
+  "name": "funlabs",
+  "version": "1.0.0",
+  "description": "Code for the fun labs portfolio",
+  "main": "main.js",
+  "scripts": {
+    "devStart": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TheElectronicGalaxy/Funlabs.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TheElectronicGalaxy/Funlabs/issues"
+  },
+  "homepage": "https://github.com/TheElectronicGalaxy/Funlabs#readme",
+  "dependencies": {
+    "ejs": "^3.1.8",
+    "express": "^4.18.1",
+    "mongoose": "^6.5.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.19"
+  }
+}
